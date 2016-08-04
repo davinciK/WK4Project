@@ -1,0 +1,42 @@
+body{
+	height: 4500px;
+	background-color: black;
+}
+
+.white{
+	color: white;
+}
+
+.blue{
+	color: white;
+}
+
+.panel-title {display: inline;font-weight: bold;}
+.checkbox.pull-right { margin: 0; }
+.pl-ziro { padding-left: 0px; }
+
+.wow{
+	color: white;
+}
+
+.control-label{
+	color: white;
+}
+
+.btn-product{
+	width: 100%;
+}
+
+.art{
+	color: white;
+}
+
+#myCarousel{
+	width:1200px;
+	position: relative;
+	left: 65px;
+}
+
+.sign{
+	color: white;
+}
